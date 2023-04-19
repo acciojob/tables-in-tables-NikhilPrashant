@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+table {
+	border: 1px solid black;
+}
+
+body table tr td table {
+	margin: 20px 1px;
+}
+
+body table tr td table {
+	width: 100%;
+}
+
+.wh {
+	background-color: black;
+	color: white;
+}
+
+th {
+	border: 1px solid black;
+}
+
+td {
+	border: 1px solid black;
+	text-align: center;
+}
